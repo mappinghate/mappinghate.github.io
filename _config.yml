@@ -1,0 +1,43 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: localhost:4000
+#urlactual: http://mappinghate.github.io
+title: Reporting Hate Events Around America
+email: mappinghate@gmail.com
+author: Shom Mazumder
+description: > # "Write an awesome description for your new site here. 
+  Reporting and mapping hate events around the United States.
+copyright: 'Copyright &copy; 2016 Mapping Hate. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  #- title: twitter
+  #  url: 
+  #- title: github
+  #  url: 
+  #- title: linkedin
+  #  url:
+  - title: google-plus
+    url: mailto:mappinghate@gmail.com
+
+# ----------------------- #
+#   Contact               #
+# ----------------------- #
+
+contact:
+  - gmail: google-plus
+    url: mailto:mappinghate@gmail.com
