@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: localhost:4000
+url: http://mappinghate.github.io
 #urlactual: http://mappinghate.github.io
-title: Reporting Hate Events Around America
+title: Mapping Hate Events Around America
 email: mappinghate@gmail.com
 author: Shom Mazumder
 description: > # "Write an awesome description for your new site here. 
