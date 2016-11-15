@@ -27,12 +27,16 @@ permalink: pretty
 social:
   - title: twitter
     url: https://twitter.com/mappinghate
+    name: Twitter
   #- title: github
   #  url: 
   #- title: linkedin
   #  url:
-  - title: google-plus
+  #- title: google-plus
+  #  url: mailto:mappinghate@gmail.com
+  - title: envelope #email
     url: mailto:mappinghate@gmail.com
+    name: Email
 
 # ----------------------- #
 #   Contact               #
